@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/ModuleHeaderToolBar/Impl/HeaderToolBar.qml</file>
+        <file>qml/ModuleHeaderToolBar/Impl/qmldir</file>
+        <file>qml/ModuleHeaderToolBar/qmldir</file>
+        <file>qml/ModuleRoundButton/Impl/qmldir</file>
+        <file>qml/ModuleRoundButton/Impl/RoundButton.qml</file>
+        <file>qml/ModuleRoundButton/qmldir</file>
+        <file>qml/PageMainMenu/Impl/MainMenu.qml</file>
+        <file>qml/PageMainMenu/Impl/qmldir</file>
+        <file>qml/PageMainMenu/qmldir</file>
+        <file>qml/PageGameBoard/Impl/GameBoard.qml</file>
+        <file>qml/PageGameBoard/Impl/qmldir</file>
+        <file>qml/PageGameBoard/qmldir</file>
+        <file>javascript/Utils.js</file>
+        <file>textures/eight.png</file>
+        <file>textures/eleven.png</file>
+        <file>textures/five.png</file>
+        <file>textures/fiveteen.png</file>
+        <file>textures/four.png</file>
+        <file>textures/fourteen.png</file>
+        <file>textures/nine.png</file>
+        <file>textures/one.png</file>
+        <file>textures/puzzleBackground.png</file>
+        <file>textures/seven.png</file>
+        <file>textures/six.png</file>
+        <file>textures/ten.png</file>
+        <file>textures/thirteen.png</file>
+        <file>textures/three.png</file>
+        <file>textures/twelve.png</file>
+        <file>textures/two.png</file>
+        <file>javascript/color_functions.js</file>
+    </qresource>
+</RCC>
